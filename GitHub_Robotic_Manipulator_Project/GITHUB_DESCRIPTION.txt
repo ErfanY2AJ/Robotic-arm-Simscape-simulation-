@@ -1,0 +1,3 @@
+MATLAB/Simscape robotic manipulator modelling, DC motor actuation, trajectory generation, and PID vs. dynamics-informed joint control (course project).
+
+Suggested topics: robotics, matlab, simulink, simscape, robot-manipulator, dc-motor, pid-control, trajectory-planning, mechatronics

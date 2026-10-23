@@ -1,0 +1,6 @@
+1. Create a new GitHub repository.
+2. Upload README.md, GITHUB_DESCRIPTION.txt, the assets/ folder and docs/ folder together, preserving paths.
+3. Paste the first line from GITHUB_DESCRIPTION.txt into the GitHub About > Description field (max 350 characters).
+4. Add the suggested topics from the second line in About > Topics.
+5. GitHub renders README.md and image links automatically.
+6. No source .slx/.m project files are included: the PDF does not contain them. Add them later only if they exist and you have permission.
